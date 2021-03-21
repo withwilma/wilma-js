@@ -1,0 +1,23 @@
+{
+  "name": "wilma-js",
+  "version": "0.16.3",
+  "description": "JavaScript library for Wilma",
+  "main": "dist/wilma.min.js",
+  "license": "MIT",
+  "author": "Wilma <hello@withwilma.com>",
+  "homepage": "https://www.withwilma.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package-lock.json",
+    "package.json"
+  ],
+  "keywords": [
+    "wilma",
+    "cms",
+    "content"
+  ]
+}
+  
