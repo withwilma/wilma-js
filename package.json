@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "Wilma Javascript SDK",
   "license": "MIT",
-  "private": true,
   "keywords": [
     "wilma",
     "content",
