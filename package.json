@@ -52,7 +52,6 @@
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-jsdoc": "30.7.8",
     "husky": "4.3.6",
-    "jsondiffpatch": "0.4.1",
     "mocha": "8.2.1",
     "npm-watch": "0.7.0",
     "promisepipe": "3.0.0",
